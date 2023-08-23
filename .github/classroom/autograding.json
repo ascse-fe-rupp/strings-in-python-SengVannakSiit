@@ -1,0 +1,34 @@
+{
+  "tests": [
+    {
+      "name": "Strings in Python",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 100
+    },
+    {
+      "name": "Reverse the String",
+      "setup": "",
+      "run": "pytest",
+      "input": "hello world",
+      "output": "dlrow olleh",
+      "comparison": "included",
+      "timeout": 60,
+      "points": 100
+    },
+    {
+      "name": "Reverse the String",
+      "setup": "",
+      "run": "pytest",
+      "input": "hello world",
+      "output": "dlrow olleh",
+      "comparison": "included",
+      "timeout": 60,
+      "points": 100
+    }
+  ]
+}
